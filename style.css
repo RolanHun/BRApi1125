@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background-color: lightblue;
+}
+div {
+  border: 1px solid black;
+  max-width: 250px;
+  background-color: whitesmoke;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bartók Roland</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="ajax.js"></script>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <button id="rendezes">Rendezés</button><br />
+    <br />
+    <p>
+      Hanyadik elemet szeretnéd törölni?
+      <input type="text" id="torolID" value="" />
+      <button id="torol">Tölrés</button><br />
+    </p>
+    <p>Elem módosítás:</p>
+    <form id="form1" name="form1">
+        Szerző: <input type="text" id="szerzoMod" name="szerzoMod" value="" /><br />
+        Cím: <input type="text" id="cimMod" name="cimMod" value="" /><br />
+        Ár: <input type="text" id="arMod" name="arMod" value="" /><br />
+        Típus: <input type="text" id="tipusMod" name="tipusMod" value="" /><br /><br />
+        <input type="submit" id="modosit" value="Modosítások elmentése" />
+      </form>
+    <p>
+      Keresés:
+      <input type="text" id="kereso" value="" />
+    </p>
+    <br />
+    <form id="form" name="form">
+      Szerző: <input type="text" id="szerzo" name="szerzo" value="" /><br />
+      Cím: <input type="text" id="cim" name="cim" value="" /><br />
+      Ár: <input type="text" id="ar" name="ar" value="" /><br />
+      Típus: <input type="text" id="tipus" name="tipus" value="" /><br /><br />
+      <input type="submit" id="ujadat" value="Új Adat hozzá adása" />
+    </form>
+    <div class="idklistazva"></div>
+    <div class="megjelenit"></div>
+  </body>
+</html>

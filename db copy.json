@@ -1,0 +1,56 @@
+{
+  "konyvek": [
+    {
+      "id": "1",
+      "szerzo": "Író János",
+      "cim": "Olvasható Könyv",
+      "ar": 400000,
+      "tipus": "regény"
+    },
+    {
+      "id": "2",
+      "szerzo": "Nemtudom Béla",
+      "cim": "Az életem",
+      "ar": 135,
+      "tipus": "vers"
+    },
+    {
+      "id": "3",
+      "szerzo": "Könyves Kálmán",
+      "cim": "Stranger Things",
+      "ar": 4500,
+      "tipus": "regény"
+    },
+    {
+      "szerzo": "Jóka Sándor",
+      "cim": "My Life Be Like UUUUH ÁÁÁÁH",
+      "ar": "42069",
+      "tipus": "vers",
+      "id": "k9i9l4y"
+    },
+    {
+      "szerzo": "Isten",
+      "cim": "Almafa",
+      "ar": "666",
+      "tipus": "Biblia",
+      "id": "ufzmEkN"
+    }
+  ],
+  "szerzo": [
+    {
+      "id": "1",
+      "nev": "Író János",
+      "nemzetiseg": "Magyar"
+    },
+    {
+      "id": "2",
+      "nev": "Nemtudom Béla",
+      "nemzetiseg": "Japán"
+    },
+    {
+      "id": "3",
+      "nev": "Könyves Kálmán",
+      "nemzetiseg": "Holland"
+    }
+  ]
+}

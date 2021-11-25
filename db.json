@@ -1,0 +1,49 @@
+{
+  "konyvek": [
+    {
+      "id": "1",
+      "szerzo": "1241245",
+      "cim": "3251235",
+      "ar": "12561346",
+      "tipus": "13462346"
+    },
+    {
+      "id": "2",
+      "szerzo": "kek",
+      "cim": "kek",
+      "ar": "50000",
+      "tipus": "kek"
+    },
+    {
+      "id": "3",
+      "szerzo": "lol",
+      "cim": "lol",
+      "ar": "123",
+      "tipus": "lol"
+    },
+    {
+      "id": "4",
+      "szerzo": "5asd46g584as6d4g",
+      "cim": "g4a5sdf4g64as6dfg",
+      "ar": "5000",
+      "tipus": "asgasdfg"
+    }
+  ],
+  "szerzo": [
+    {
+      "id": "1",
+      "nev": "Író János",
+      "nemzetiseg": "Magyar"
+    },
+    {
+      "id": "2",
+      "nev": "Nemtudom Béla",
+      "nemzetiseg": "Japán"
+    },
+    {
+      "id": "3",
+      "nev": "Könyves Kálmán",
+      "nemzetiseg": "Holland"
+    }
+  ]
+}
